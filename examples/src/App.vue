@@ -1,9 +1,8 @@
 <script setup lang="ts">
-
 </script>
 
 <template>
- test
+ <z-icon></z-icon>
 </template>
 
 <style>

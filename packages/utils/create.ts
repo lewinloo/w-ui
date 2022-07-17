@@ -48,7 +48,7 @@ function createBEM(prefixName: string) {
       ? _bem(prefixName, blockSuffix, element, modifier)
       : "";
 
-  const is = (name: string, state: boolean) => (state ? `is-${name}` : "");
+  const is = (name: string, state: string | boolean) => (state ? `is-${name}` : "");
 
   return {
     b,
