@@ -1,0 +1,4 @@
+packages:
+  - examples # 存放组件测试的时候的代码
+  - docs # 存放组件库文档
+  - "packages/**"
