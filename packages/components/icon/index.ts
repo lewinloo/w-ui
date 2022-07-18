@@ -8,7 +8,7 @@ export default Icon;
 
 export * from "./src/icon";
 
-declare module 'vue' {
+declare module "vue" {
   export interface GlobalComponents {
     WIcon: typeof Icon
   }

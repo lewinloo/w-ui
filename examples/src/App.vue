@@ -2,7 +2,7 @@
 </script>
 
 <template>
- <z-icon></z-icon>
+<w-icon></w-icon>
 </template>
 
 <style>
